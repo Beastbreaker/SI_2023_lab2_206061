@@ -8,3 +8,4 @@
 
 edges - nodes + 2 * end points = ciklomatska kompleksnost
 
+ne e slika CFG XML se otvara na draw.io
